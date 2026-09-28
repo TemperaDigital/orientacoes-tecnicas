@@ -56,3 +56,5 @@ header nav{align-items:center}.intranet-link{display:flex;flex-direction:column;
 @media(max-width:480px){.footer-heading{align-items:flex-start;gap:16px}.footer-heading strong{font-size:19px}.back-top{padding:8px 12px;font-size:12px;gap:8px;white-space:nowrap}.footer-columns{grid-template-columns:1fr;gap:20px}.footer-counter{grid-column:auto}.institution-links{grid-template-columns:repeat(2,1fr)}.institution-links a:last-child{grid-column:1/-1}}
 @media(prefers-reduced-motion:reduce){.site-footer a{transition:none}}
 @media print{.site-footer{display:none}}
+
+.counter-values{margin:0}.counter-total{font:700 30px/1.4 Manrope,sans-serif;letter-spacing:2px;margin-bottom:12px}.counter-values dl{margin:0;font-size:14px}.counter-values dl>div{display:flex;justify-content:space-between;gap:20px;margin:5px 0}.counter-values dd{margin:0;font-variant-numeric:tabular-nums}.counter-values small{display:block;color:#bdd0e2;font-size:12px;margin-top:12px}
