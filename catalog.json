@@ -1,0 +1,1640 @@
+[
+  {
+    "id": 0,
+    "slug": "averbacao-recolhimento",
+    "title": "Averbação de recolhimento ao PSS",
+    "category": "Assessoria Técnica",
+    "categoryId": 1,
+    "kind": "Caderno",
+    "description": "Contribuições ao Plano de Seguridade Social durante licenças sem remuneração.",
+    "code": "DAP 06.005",
+    "date": "Dezembro de 2024",
+    "file": "06.005 - Assessoria tcnica - Averbao de recolhimento 1 ed 2024 - Denis.pdf",
+    "topics": [
+      [
+        2,
+        "Introdução"
+      ],
+      [
+        3,
+        "Legislação"
+      ],
+      [
+        5,
+        "Conceitos e requisitos básicos"
+      ],
+      [
+        7,
+        "Informações gerais"
+      ],
+      [
+        12,
+        "Como realizar a contribuição"
+      ],
+      [
+        13,
+        "Como emitir o DARF"
+      ],
+      [
+        17,
+        "Documentos necessários"
+      ],
+      [
+        21,
+        "Documentos no SPED"
+      ],
+      [
+        22,
+        "Tramitação interna"
+      ]
+    ],
+    "related": [],
+    "pageCount": 23
+  },
+  {
+    "id": 1,
+    "slug": "anexos-gq",
+    "title": "Anexos de Gratificação de Qualificação",
+    "category": "Assessoria Técnica",
+    "categoryId": 1,
+    "kind": "Anexos",
+    "description": "Requerimento, ficha de avaliação e modelos de parecer para concessão de GQ.",
+    "code": "",
+    "date": "Edição conforme PDF original",
+    "file": "ANEXOS GQ.pdf",
+    "topics": [
+      [
+        1,
+        "Anexo A — requerimento de GQ"
+      ],
+      [
+        2,
+        "Anexo B — ficha de avaliação"
+      ],
+      [
+        3,
+        "Anexo C — parecer sobre cursos"
+      ],
+      [
+        5,
+        "Anexo D — parecer sobre prova"
+      ]
+    ],
+    "related": [
+      "gq"
+    ],
+    "pageCount": 6
+  },
+  {
+    "id": 2,
+    "slug": "isencao-imposto-renda",
+    "title": "Isenção de Imposto de Renda",
+    "category": "Aposentados e Pensionistas",
+    "categoryId": 5,
+    "kind": "Caderno",
+    "description": "Conceitos, documentação e tramitação para aposentados e pensionistas.",
+    "code": "DAP 06.031",
+    "date": "Julho de 2024",
+    "file": "Caderno de Orientacao - Apos e Pens - Iseno de Imposto de Renda.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        4,
+        "Conceitos e informações gerais"
+      ],
+      [
+        9,
+        "Documentos necessários"
+      ],
+      [
+        11,
+        "Informação no SPED"
+      ],
+      [
+        12,
+        "Tramitação"
+      ],
+      [
+        17,
+        "Anexo A — requerimento"
+      ]
+    ],
+    "related": [],
+    "pageCount": 17
+  },
+  {
+    "id": 3,
+    "slug": "insalubridade-periculosidade",
+    "title": "Insalubridade e periculosidade",
+    "category": "Benefícios",
+    "categoryId": 3,
+    "kind": "Caderno",
+    "description": "Requisitos, laudo técnico, pagamento dos adicionais e modelos de documentos.",
+    "code": "DAP 06.012",
+    "date": "Agosto de 2024",
+    "file": "Caderno de Orientacao - Beneficios -  Insalubridade e Periculosidade.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação básica"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        5,
+        "Requisitos básicos"
+      ],
+      [
+        6,
+        "Informações gerais"
+      ],
+      [
+        9,
+        "Laudo técnico pericial"
+      ],
+      [
+        15,
+        "Pagamento"
+      ],
+      [
+        18,
+        "Insalubridade e periculosidade: diferenças"
+      ],
+      [
+        19,
+        "Documentos necessários"
+      ],
+      [
+        21,
+        "Tramitação"
+      ],
+      [
+        23,
+        "Anexos e portarias"
+      ],
+      [
+        28,
+        "Perfil Profissiográfico Previdenciário — PPP"
+      ],
+      [
+        32,
+        "Instruções de preenchimento do PPP"
+      ]
+    ],
+    "related": [],
+    "pageCount": 37
+  },
+  {
+    "id": 4,
+    "slug": "abono-permanencia",
+    "title": "Abono de permanência",
+    "category": "Benefícios",
+    "categoryId": 3,
+    "kind": "Caderno",
+    "description": "Requisitos, fundamentos, documentos e procedimentos para concessão do abono.",
+    "code": "DAP 06.009",
+    "date": "Outubro de 2024",
+    "file": "Caderno de Orientacao - Beneficios - Abono de Permanncia.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação básica"
+      ],
+      [
+        4,
+        "Conceito"
+      ],
+      [
+        5,
+        "Requisitos básicos"
+      ],
+      [
+        6,
+        "Informações gerais"
+      ],
+      [
+        7,
+        "Documentos necessários"
+      ],
+      [
+        9,
+        "Tramitação"
+      ],
+      [
+        10,
+        "Fundamentos anteriores à EC 103/2019"
+      ],
+      [
+        15,
+        "Fundamentos após a EC 103/2019"
+      ],
+      [
+        22,
+        "Anexos e mapa de tempo de serviço"
+      ],
+      [
+        26,
+        "Tutorial de lançamento — anexo do caderno"
+      ]
+    ],
+    "related": [
+      "tutorial-abono"
+    ],
+    "pageCount": 34
+  },
+  {
+    "id": 5,
+    "slug": "jornada-reduzida",
+    "title": "Jornada de trabalho reduzida",
+    "category": "Benefícios",
+    "categoryId": 3,
+    "kind": "Caderno",
+    "description": "Redução da jornada com remuneração proporcional e lançamento no sistema.",
+    "code": "DAP 06.010",
+    "date": "Janeiro de 2024 / Outubro de 2024",
+    "file": "Caderno de Orientacao - Beneficios - Jornada Reduzida.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        4,
+        "Requisitos e informações gerais"
+      ],
+      [
+        6,
+        "Documentos necessários"
+      ],
+      [
+        7,
+        "Tramitação"
+      ],
+      [
+        9,
+        "Como alterar a jornada no Siapenet"
+      ]
+    ],
+    "related": [],
+    "pageCount": 13
+  },
+  {
+    "id": 6,
+    "slug": "nomeacao-posse",
+    "title": "Nomeação, posse, exercício e estágio probatório",
+    "category": "Benefícios",
+    "categoryId": 3,
+    "kind": "Caderno",
+    "description": "Ingresso no cargo efetivo, avaliação do estágio e documentação necessária.",
+    "code": "DAP 06.008",
+    "date": "Março de 2024",
+    "file": "Caderno de Orientacao - Beneficios - Nomeao posse exerccio e estgio probatrio.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação básica"
+      ],
+      [
+        6,
+        "Conceitos"
+      ],
+      [
+        7,
+        "Requisitos básicos"
+      ],
+      [
+        9,
+        "Nomeação"
+      ],
+      [
+        10,
+        "Posse"
+      ],
+      [
+        13,
+        "Exercício"
+      ],
+      [
+        14,
+        "Estágio probatório"
+      ],
+      [
+        18,
+        "Documentos necessários"
+      ],
+      [
+        19,
+        "Tramitação"
+      ],
+      [
+        23,
+        "Anexos e modelos"
+      ]
+    ],
+    "related": [],
+    "pageCount": 30
+  },
+  {
+    "id": 7,
+    "slug": "retribuicao-titulacao",
+    "title": "Retribuição por titulação",
+    "category": "Benefícios",
+    "categoryId": 3,
+    "kind": "Caderno",
+    "description": "Titulação acadêmica e concessão da RT na carreira de Tecnologia Militar.",
+    "code": "DAP 06.015",
+    "date": "Maio de 2024",
+    "file": "Caderno de Orientacao - Beneficios - Retribuicao.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação básica"
+      ],
+      [
+        3,
+        "Conceito"
+      ],
+      [
+        4,
+        "Requisitos básicos"
+      ],
+      [
+        5,
+        "Informações gerais"
+      ],
+      [
+        6,
+        "Documentos necessários"
+      ],
+      [
+        7,
+        "Tramitação"
+      ]
+    ],
+    "related": [],
+    "pageCount": 8
+  },
+  {
+    "id": 8,
+    "slug": "averbacao-servidor",
+    "title": "Averbação de tempo — módulo servidor",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Caderno",
+    "description": "Tempo de serviço e contribuição, conversão de tempo especial em comum e documentos.",
+    "code": "DAP 06.021",
+    "date": "Junho de 2024",
+    "file": "Caderno de Orientacao - Cadastro - Averbao - mdulo servidor.pdf",
+    "topics": [
+      [
+        3,
+        "Legislação"
+      ],
+      [
+        4,
+        "Conceitos"
+      ],
+      [
+        7,
+        "Contagem e averbação de tempo"
+      ],
+      [
+        16,
+        "Requisitos para solicitar"
+      ],
+      [
+        19,
+        "Conversão de tempo especial em comum"
+      ],
+      [
+        22,
+        "Documentos necessários"
+      ],
+      [
+        24,
+        "Documentos no SPED"
+      ],
+      [
+        26,
+        "Tramitação"
+      ],
+      [
+        28,
+        "Anexo A — PPP"
+      ],
+      [
+        34,
+        "Preenchimento do PPP"
+      ],
+      [
+        42,
+        "Perguntas frequentes"
+      ],
+      [
+        47,
+        "Anexo C — declaração de tempo"
+      ]
+    ],
+    "related": [
+      "averbacao-operador",
+      "processo-conversao-tempo",
+      "tutorial-averbacao"
+    ],
+    "pageCount": 49
+  },
+  {
+    "id": 9,
+    "slug": "averbacao-operador",
+    "title": "Averbação de tempo — módulo operador",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Caderno",
+    "description": "Procedimentos de averbação e conversão de tempo especial para o operador.",
+    "code": "DAP 06.022",
+    "date": "Abril de 2024",
+    "file": "Caderno de Orientacao - Cadastro - Averbao do tempo de servio - MDULO OPERADOR.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        4,
+        "Tempo de serviço considerado"
+      ],
+      [
+        10,
+        "Tempo não considerado"
+      ],
+      [
+        13,
+        "Tempo de contribuição"
+      ],
+      [
+        27,
+        "Requisitos para solicitar"
+      ],
+      [
+        31,
+        "Parâmetros para averbação"
+      ],
+      [
+        33,
+        "Revisão da CTC"
+      ],
+      [
+        36,
+        "Conversão de tempo especial em comum"
+      ],
+      [
+        43,
+        "Processo administrativo para conversão"
+      ],
+      [
+        54,
+        "Tempo sob condições especiais"
+      ],
+      [
+        58,
+        "Documentos necessários"
+      ],
+      [
+        60,
+        "Documentos no SPED"
+      ],
+      [
+        62,
+        "Tramitação"
+      ],
+      [
+        64,
+        "Perguntas frequentes e orientações"
+      ]
+    ],
+    "related": [
+      "averbacao-servidor",
+      "processo-conversao-tempo",
+      "tutorial-averbacao"
+    ],
+    "pageCount": 68
+  },
+  {
+    "id": 10,
+    "slug": "cessao-requisicao",
+    "title": "Cessão e requisição",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Caderno",
+    "description": "Movimentação do servidor, requisitos, documentação e tramitação.",
+    "code": "DAP 06.018",
+    "date": "Março de 2024",
+    "file": "Caderno de Orientacao - Cadastro - Cesso e Requisio.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        5,
+        "Requisitos"
+      ],
+      [
+        6,
+        "Cessão"
+      ],
+      [
+        8,
+        "Requisição"
+      ],
+      [
+        10,
+        "Manutenção das gratificações"
+      ],
+      [
+        13,
+        "Prazos de cessão"
+      ],
+      [
+        16,
+        "Prazos de requisição"
+      ],
+      [
+        17,
+        "Remuneração e reembolso"
+      ],
+      [
+        18,
+        "Documentos necessários"
+      ],
+      [
+        19,
+        "Tramitação"
+      ],
+      [
+        23,
+        "Anexos e portarias"
+      ]
+    ],
+    "related": [],
+    "pageCount": 25
+  },
+  {
+    "id": 11,
+    "slug": "exercicio-provisorio",
+    "title": "Exercício provisório",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Caderno",
+    "description": "Exercício provisório para acompanhar o cônjuge ou companheiro.",
+    "code": "DAP 06.020",
+    "date": "Março de 2024",
+    "file": "Caderno de Orientacao - Cadastro - Exerccio Provisrio.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        7,
+        "Documentos necessários"
+      ],
+      [
+        8,
+        "Documentos no SPED"
+      ],
+      [
+        9,
+        "Tramitação"
+      ]
+    ],
+    "related": [],
+    "pageCount": 10
+  },
+  {
+    "id": 12,
+    "slug": "remocao-redistribuicao",
+    "title": "Remoção e redistribuição",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Caderno",
+    "description": "Modalidades, requisitos e processos de movimentação do servidor e do cargo.",
+    "code": "DAP 06.016",
+    "date": "Maio de 2024",
+    "file": "Caderno de Orientacao - Cadastro - Remoo e Redistribuio.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        4,
+        "Modalidades de remoção"
+      ],
+      [
+        6,
+        "Requisitos para redistribuição"
+      ],
+      [
+        7,
+        "Informações gerais"
+      ],
+      [
+        11,
+        "Documentos para remoção"
+      ],
+      [
+        13,
+        "Documentos para redistribuição"
+      ],
+      [
+        14,
+        "Tramitação da remoção"
+      ],
+      [
+        16,
+        "Tramitação da redistribuição"
+      ],
+      [
+        19,
+        "Anexos e portarias"
+      ]
+    ],
+    "related": [],
+    "pageCount": 20
+  },
+  {
+    "id": 13,
+    "slug": "reversao-reintegracao-readaptacao",
+    "title": "Reversão, reintegração e readaptação",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Caderno",
+    "description": "Conceitos, requisitos e procedimentos para retorno e adequação funcional.",
+    "code": "DAP 06.019",
+    "date": "Março de 2024",
+    "file": "Caderno de Orientacao - Cadastro - Reverso Reintegrao e Readaptao.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        4,
+        "Requisitos"
+      ],
+      [
+        8,
+        "Informações gerais"
+      ],
+      [
+        14,
+        "Documentos necessários"
+      ],
+      [
+        16,
+        "Tramitação"
+      ],
+      [
+        21,
+        "Anexo — declaração"
+      ]
+    ],
+    "related": [],
+    "pageCount": 21
+  },
+  {
+    "id": 14,
+    "slug": "avaliacao-pgpe-pcctm",
+    "title": "Avaliação de desempenho — PGPE e PCCTM",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Caderno",
+    "description": "Avaliação de desempenho para progressão funcional, interstícios e documentos.",
+    "code": "DAP 06.028",
+    "date": "Junho de 2024",
+    "file": "Caderno de Orientacao - Carreira - Avaliao de desempenho dos servidores do PGPE E PCTM VF.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        4,
+        "Conceitos"
+      ],
+      [
+        6,
+        "Critérios de avaliação"
+      ],
+      [
+        9,
+        "Interstício para progressão"
+      ],
+      [
+        14,
+        "Avaliação de desempenho"
+      ],
+      [
+        24,
+        "Progressão funcional"
+      ],
+      [
+        25,
+        "Documentos necessários"
+      ],
+      [
+        27,
+        "Tramitação"
+      ],
+      [
+        31,
+        "Anexos — instruções, FAD e BAD"
+      ]
+    ],
+    "related": [
+      "tutorial-progressao"
+    ],
+    "pageCount": 35
+  },
+  {
+    "id": 15,
+    "slug": "avaliacao-docentes",
+    "title": "Avaliação de docentes — DECEx",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Caderno",
+    "description": "Avaliação de desempenho, progressão e promoção dos docentes vinculados ao DECEx.",
+    "code": "DAP 06.025",
+    "date": "Outubro de 2024",
+    "file": "Caderno de Orientacao - Carreira - AVPP Doc_DECEx.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação básica"
+      ],
+      [
+        4,
+        "Estrutura da carreira"
+      ],
+      [
+        7,
+        "Conceitos"
+      ],
+      [
+        10,
+        "Critérios de avaliação, progressão e promoção"
+      ],
+      [
+        17,
+        "Progressão funcional"
+      ],
+      [
+        18,
+        "Promoção no Magistério Superior"
+      ],
+      [
+        23,
+        "Promoção no EBTT"
+      ],
+      [
+        25,
+        "Aceleração da promoção"
+      ],
+      [
+        28,
+        "Documentos necessários"
+      ],
+      [
+        33,
+        "Anexo A — FADD"
+      ],
+      [
+        35,
+        "Anexo B — memorial descritivo"
+      ]
+    ],
+    "related": [
+      "instrucoes-magisterio-superior",
+      "instrucoes-ebtt"
+    ],
+    "pageCount": 40
+  },
+  {
+    "id": 16,
+    "slug": "provimento-vacancia-comissionados",
+    "title": "Provimento e vacância — CCE e FCE",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Caderno",
+    "description": "Cargos e funções comissionadas: indicação, requisitos, posse, exoneração e dispensa.",
+    "code": "DAP 06.026",
+    "date": "Junho de 2024",
+    "file": "Caderno de Orientacao - Carreira - PROVIMENTO E VACNCIA DE CCE e FCE - VF.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        6,
+        "Requisitos e critérios"
+      ],
+      [
+        13,
+        "Nomeação para CCE"
+      ],
+      [
+        15,
+        "Remuneração e vínculos"
+      ],
+      [
+        18,
+        "Posse, exoneração e dispensa"
+      ],
+      [
+        21,
+        "Documentos necessários"
+      ],
+      [
+        25,
+        "Tramitação"
+      ],
+      [
+        29,
+        "Anexos e modelos"
+      ]
+    ],
+    "related": [],
+    "pageCount": 42
+  },
+  {
+    "id": 17,
+    "slug": "vacancia-cargo-efetivo",
+    "title": "Vacância de cargo efetivo",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Caderno",
+    "description": "Falecimento, posse em outro cargo inacumulável e exoneração de cargo efetivo.",
+    "code": "DAP 06.027",
+    "date": "Maio de 2024",
+    "file": "Caderno de Orientacao - Carreira - VACNCIA POR FAL ACUMULAO E EXON CARGO EFETIVO - VF.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        3,
+        "Conceitos"
+      ],
+      [
+        5,
+        "Exoneração e declaração de vacância"
+      ],
+      [
+        8,
+        "Documentos necessários"
+      ],
+      [
+        11,
+        "Tramitação"
+      ],
+      [
+        16,
+        "Anexos e modelos"
+      ]
+    ],
+    "related": [],
+    "pageCount": 19
+  },
+  {
+    "id": 18,
+    "slug": "ferias",
+    "title": "Férias",
+    "category": "Assessoria Técnica",
+    "categoryId": 1,
+    "kind": "Caderno",
+    "description": "Período aquisitivo, programação, parcelamento e pagamento.",
+    "code": "DAP 06.001",
+    "date": "Setembro de 2024",
+    "file": "Caderno de Orientacoes - Assessoria Tecnica - Ferias.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação"
+      ],
+      [
+        4,
+        "Período aquisitivo e usufruto"
+      ],
+      [
+        12,
+        "Situações específicas"
+      ],
+      [
+        19,
+        "Programação e parcelamento"
+      ],
+      [
+        23,
+        "Acumulação e interrupção"
+      ],
+      [
+        26,
+        "Pagamento e indenização"
+      ],
+      [
+        29,
+        "Programação no SouGov"
+      ],
+      [
+        32,
+        "Homologação no SouGov"
+      ]
+    ],
+    "related": [],
+    "pageCount": 37
+  },
+  {
+    "id": 19,
+    "slug": "gq",
+    "title": "Gratificação de Qualificação — GQ",
+    "category": "Assessoria Técnica",
+    "categoryId": 1,
+    "kind": "Caderno",
+    "description": "Requisitos, capacitações, documentos e tramitação para o PCCTM.",
+    "code": "DAP 06.006",
+    "date": "Dezembro de 2024",
+    "file": "Caderno de Orientacoes - Assessoria Tecnica - Gratificacao.pdf",
+    "topics": [
+      [
+        2,
+        "Legislação e conceito"
+      ],
+      [
+        5,
+        "Requisitos básicos"
+      ],
+      [
+        7,
+        "Capacitações e níveis da GQ"
+      ],
+      [
+        10,
+        "Aceitação dos cursos"
+      ],
+      [
+        11,
+        "Informações gerais"
+      ],
+      [
+        12,
+        "Comitê Especial"
+      ],
+      [
+        16,
+        "Prazos"
+      ],
+      [
+        17,
+        "Acumulação e aposentadoria"
+      ],
+      [
+        18,
+        "Reconsideração e recursos"
+      ],
+      [
+        19,
+        "Documentos necessários"
+      ],
+      [
+        22,
+        "Tramitação"
+      ],
+      [
+        25,
+        "Tramitação de reconsideração e recursos"
+      ]
+    ],
+    "related": [
+      "anexos-gq"
+    ],
+    "pageCount": 28
+  },
+  {
+    "id": 20,
+    "slug": "licenca-medica",
+    "title": "Licença Médica",
+    "category": "Assessoria Técnica",
+    "categoryId": 1,
+    "kind": "Caderno",
+    "description": "Atestados, perícias, modalidades de licença e procedimentos.",
+    "code": "DAP 06.002",
+    "date": "Setembro de 2024",
+    "file": "Caderno de Orientacoes - Assessoria Tecnica - Licencas Medicas.pdf",
+    "topics": [
+      [
+        2,
+        "Conceitos e legislação"
+      ],
+      [
+        9,
+        "Requisitos básicos"
+      ],
+      [
+        13,
+        "Informações gerais"
+      ],
+      [
+        14,
+        "Envio de atestado no SouGov"
+      ],
+      [
+        24,
+        "Impossibilidade de acesso ao SouGov"
+      ],
+      [
+        25,
+        "Homologação e perícia"
+      ],
+      [
+        26,
+        "Cargo em comissão sem vínculo efetivo"
+      ],
+      [
+        27,
+        "Tratamento de saúde"
+      ],
+      [
+        28,
+        "Doença em pessoa da família"
+      ],
+      [
+        31,
+        "Acidente em serviço"
+      ],
+      [
+        34,
+        "Atestado de Origem"
+      ],
+      [
+        38,
+        "Licença à gestante"
+      ],
+      [
+        40,
+        "Licença paternidade"
+      ],
+      [
+        42,
+        "Licença à adotante"
+      ],
+      [
+        43,
+        "Contagem de tempo de serviço"
+      ],
+      [
+        44,
+        "Registro da licença"
+      ],
+      [
+        45,
+        "Documentos necessários"
+      ],
+      [
+        49,
+        "Tramitação interna"
+      ]
+    ],
+    "related": [],
+    "pageCount": 55
+  },
+  {
+    "id": 21,
+    "slug": "aposentadoria",
+    "title": "Aposentadoria",
+    "category": "Aposentadoria",
+    "categoryId": 6,
+    "kind": "Caderno",
+    "description": "Modalidades, fundamentos, requisitos, organização do processo e tramitação.",
+    "code": "DAP 06.024",
+    "date": "Outubro de 2025",
+    "file": "CADERNO DE ORIENTAO APOSENTADORIA 2 Verso Final.pdf",
+    "topics": [
+      [
+        2,
+        "Apresentação"
+      ],
+      [
+        4,
+        "Conceitos"
+      ],
+      [
+        6,
+        "Legislação básica"
+      ],
+      [
+        7,
+        "Tipos de aposentadoria"
+      ],
+      [
+        8,
+        "Aposentadoria voluntária"
+      ],
+      [
+        10,
+        "Regras de transição e pontuação"
+      ],
+      [
+        14,
+        "Pedágio"
+      ],
+      [
+        16,
+        "Direito adquirido"
+      ],
+      [
+        18,
+        "Incapacidade permanente"
+      ],
+      [
+        19,
+        "Aposentadoria compulsória"
+      ],
+      [
+        20,
+        "Aposentadoria especial"
+      ],
+      [
+        22,
+        "Pessoa com deficiência"
+      ],
+      [
+        24,
+        "Documentos necessários"
+      ],
+      [
+        27,
+        "Organização do processo"
+      ],
+      [
+        30,
+        "Tramitação"
+      ]
+    ],
+    "related": [
+      "folder-aposentadoria",
+      "tutorial-aposentadoria"
+    ],
+    "pageCount": 33
+  },
+  {
+    "id": 22,
+    "slug": "folder-aposentadoria",
+    "title": "Pronto para aposentar — folder SPC",
+    "category": "Aposentadoria",
+    "categoryId": 6,
+    "kind": "Folder",
+    "description": "Cuidados na preparação e etapas do processo de aposentadoria.",
+    "code": "",
+    "date": "Edição conforme PDF original",
+    "file": "Folder SPC A4.pdf",
+    "topics": [
+      [
+        1,
+        "Preparação para aposentadoria"
+      ],
+      [
+        2,
+        "Etapas do processo"
+      ]
+    ],
+    "related": [
+      "aposentadoria",
+      "tutorial-aposentadoria"
+    ],
+    "pageCount": 2
+  },
+  {
+    "id": 23,
+    "slug": "instrucoes-magisterio-superior",
+    "title": "Avaliação do Magistério Superior",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Instruções verificativas",
+    "description": "Orientações para avaliação, progressão funcional e promoção no Magistério Superior.",
+    "code": "DAP 06.025",
+    "date": "Janeiro de 2025",
+    "file": "Instrues Verificativas  Avaliao de Professor do Magistrio Superior.pdf",
+    "topics": [
+      [
+        1,
+        "Avaliação, legislação e interstício"
+      ],
+      [
+        2,
+        "Período e avaliação de desempenho"
+      ],
+      [
+        3,
+        "Progressão, promoção e aceleração"
+      ],
+      [
+        4,
+        "Promoção para professor titular"
+      ]
+    ],
+    "related": [
+      "avaliacao-docentes",
+      "instrucoes-ebtt"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": 24,
+    "slug": "instrucoes-ebtt",
+    "title": "Avaliação do Magistério EBTT",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Instruções verificativas",
+    "description": "Orientações para avaliação, progressão e promoção no Ensino Básico, Técnico e Tecnológico.",
+    "code": "DAP 06.025",
+    "date": "Janeiro de 2025",
+    "file": "Instrues Verificativas - Avaliao de Professor do Magistrio do EBTT progresso e promoo.pdf",
+    "topics": [
+      [
+        1,
+        "Avaliação, legislação e interstício"
+      ],
+      [
+        2,
+        "Período e avaliação de desempenho"
+      ],
+      [
+        3,
+        "Progressão, promoção e aceleração"
+      ],
+      [
+        4,
+        "Promoção para a classe titular"
+      ]
+    ],
+    "related": [
+      "avaliacao-docentes",
+      "instrucoes-magisterio-superior"
+    ],
+    "pageCount": 4
+  },
+  {
+    "id": 25,
+    "slug": "processo-conversao-tempo",
+    "title": "Processo de conversão de tempo especial em comum",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Modelos e procedimentos",
+    "description": "Modelos, lista de documentos, PPP e inclusão do processo no AFD.",
+    "code": "DAP 06.022",
+    "date": "Edição conforme PDF original",
+    "file": "Processo de Converso de Tempo Especial em Comum.pdf",
+    "topics": [
+      [
+        2,
+        "DIEx de proposta"
+      ],
+      [
+        3,
+        "Modelo de processo"
+      ],
+      [
+        4,
+        "Lista de documentos"
+      ],
+      [
+        5,
+        "Termo de abertura"
+      ],
+      [
+        6,
+        "Requerimento"
+      ],
+      [
+        7,
+        "Informação"
+      ],
+      [
+        9,
+        "Vedações legais"
+      ],
+      [
+        10,
+        "Mapa de tempo de serviço"
+      ],
+      [
+        11,
+        "Licenças, suspensões e faltas"
+      ],
+      [
+        12,
+        "CNIS"
+      ],
+      [
+        13,
+        "Bases de cálculo"
+      ],
+      [
+        14,
+        "Certidões de tempo"
+      ],
+      [
+        16,
+        "LTCAT"
+      ],
+      [
+        17,
+        "Portarias"
+      ],
+      [
+        19,
+        "Declaração de atividade especial"
+      ],
+      [
+        20,
+        "PPP"
+      ],
+      [
+        23,
+        "Preenchimento do PPP"
+      ],
+      [
+        28,
+        "Inclusão no AFD"
+      ]
+    ],
+    "related": [
+      "averbacao-servidor",
+      "averbacao-operador",
+      "tutorial-averbacao"
+    ],
+    "pageCount": 30
+  },
+  {
+    "id": 26,
+    "slug": "tutorial-averbacao",
+    "title": "Como fazer: averbação de tempo",
+    "category": "Cadastro",
+    "categoryId": 2,
+    "kind": "Tutorial",
+    "description": "Lançamento do tempo de serviço e contribuição no Sigepe, passo a passo.",
+    "code": "DAP 06.021",
+    "date": "Dezembro de 2024",
+    "file": "Tutorial - Averbao do Tempo de Servio e do Tempo de Contribuio.pdf",
+    "topics": [
+      [
+        1,
+        "Acesso e matrícula — passos 1 e 2"
+      ],
+      [
+        2,
+        "Órgão e dados — passos 3 e 4"
+      ],
+      [
+        3,
+        "Período — passos 5 e 6"
+      ],
+      [
+        4,
+        "Processo e conferência — passos 7 e 8"
+      ],
+      [
+        5,
+        "Contribuições — passos 9 e 10"
+      ],
+      [
+        6,
+        "Ano e meses — passos 11 e 12"
+      ],
+      [
+        7,
+        "Remuneração — passos 13 e 14"
+      ],
+      [
+        8,
+        "Conferência final"
+      ],
+      [
+        9,
+        "Elaboração"
+      ]
+    ],
+    "related": [
+      "averbacao-servidor",
+      "averbacao-operador",
+      "processo-conversao-tempo"
+    ],
+    "pageCount": 9
+  },
+  {
+    "id": 27,
+    "slug": "tutorial-aposentadoria",
+    "title": "Como fazer: concessão de aposentadoria",
+    "category": "Aposentadoria",
+    "categoryId": 6,
+    "kind": "Tutorial",
+    "description": "Lançamento no Siapenet e emissão do título de inatividade.",
+    "code": "",
+    "date": "Edição conforme PDF original",
+    "file": "Tutorial - Concesso de Aposentadoria.pdf",
+    "topics": [
+      [
+        1,
+        "Acesso ao Siapenet"
+      ],
+      [
+        2,
+        "Acesso ao SIAPE e comandos"
+      ],
+      [
+        3,
+        "Identificação do servidor"
+      ],
+      [
+        4,
+        "Fundamento legal"
+      ],
+      [
+        5,
+        "Início e informações da aposentadoria"
+      ],
+      [
+        6,
+        "Preenchimento"
+      ],
+      [
+        7,
+        "Portaria"
+      ],
+      [
+        8,
+        "Observações"
+      ],
+      [
+        9,
+        "Confirmação"
+      ],
+      [
+        10,
+        "Emissão do título de inatividade"
+      ],
+      [
+        14,
+        "Modelo do título e considerações"
+      ]
+    ],
+    "related": [
+      "aposentadoria",
+      "folder-aposentadoria"
+    ],
+    "pageCount": 14
+  },
+  {
+    "id": 28,
+    "slug": "tutorial-progressao",
+    "title": "Como fazer: progressão e promoção funcional",
+    "category": "Carreira",
+    "categoryId": 4,
+    "kind": "Tutorial",
+    "description": "Lançamento no Siapenet para PGPE e PCCTM, consulta e cálculo.",
+    "code": "DAP 06.028",
+    "date": "Dezembro de 2024",
+    "file": "Tutorial - Lanamento de Progresso e Promoo Funcional no Sistema Siapenet PGPE E PCTM.pdf",
+    "topics": [
+      [
+        1,
+        "Requisitos e acesso"
+      ],
+      [
+        2,
+        "Certificado digital e SIAPE"
+      ],
+      [
+        3,
+        "Lançamento da progressão"
+      ],
+      [
+        4,
+        "Portaria e matrícula"
+      ],
+      [
+        5,
+        "Identificação do vínculo"
+      ],
+      [
+        6,
+        "Posicionamento"
+      ],
+      [
+        7,
+        "Consulta"
+      ],
+      [
+        8,
+        "Conferência"
+      ],
+      [
+        9,
+        "Cálculo do pagamento"
+      ],
+      [
+        10,
+        "Confirmação final"
+      ]
+    ],
+    "related": [
+      "avaliacao-pgpe-pcctm"
+    ],
+    "pageCount": 10
+  },
+  {
+    "id": 29,
+    "slug": "tutorial-abono",
+    "title": "Como fazer: abono de permanência",
+    "category": "Benefícios",
+    "categoryId": 3,
+    "kind": "Tutorial",
+    "description": "Lançamento operacional da concessão de abono no Siapenet.",
+    "code": "DAP 06.009",
+    "date": "Janeiro de 2025",
+    "file": "Tutorial Operacional - Lanamento do Abono de Permanncia concesso.pdf",
+    "topics": [
+      [
+        1,
+        "Requisitos e acesso"
+      ],
+      [
+        2,
+        "Certificado digital e SIAPE"
+      ],
+      [
+        3,
+        "Comando e matrícula"
+      ],
+      [
+        4,
+        "Beneficiário e licença-prêmio"
+      ],
+      [
+        5,
+        "Grupo e ocorrência"
+      ],
+      [
+        6,
+        "Fundamentação"
+      ],
+      [
+        7,
+        "Licença-prêmio em dobro"
+      ],
+      [
+        8,
+        "Dias e concessão"
+      ],
+      [
+        9,
+        "Confirmação final"
+      ]
+    ],
+    "related": [
+      "abono-permanencia"
+    ],
+    "pageCount": 9
+  }
+]
