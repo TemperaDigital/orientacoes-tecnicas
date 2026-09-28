@@ -57,4 +57,4 @@ export function createApp({env=process.env,fetchImpl=fetch,staticRoot=root}={}){
  });
  server.on('close',()=>clearInterval(timer));return server;
 }
-if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url))createApp().listen(Number(process.env.PORT)||80,'0.0.0.0',()=>console.log('Servidor iniciado'));
+if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url))createApp().listen(Number(process.env.PORT)||80,()=>console.log('Servidor iniciado'));
